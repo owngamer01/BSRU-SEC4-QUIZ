@@ -3,7 +3,7 @@
 Clone จาก Github โดยใช้คำสั่ง
 
 ```bash
-git clone https://github.com/owngamer01/BSRU-SEC4-TODO.git
+git clone https://github.com/owngamer01/BSRU-SEC4-QUIZ.git
 ```
 
 ## การติดตั้งหลังจาก Clone เสร็จแล้ว
