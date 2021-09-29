@@ -3,7 +3,7 @@
 Clone จาก Github โดยใช้คำสั่ง
 
 ```bash
-git clone https://github.com/owngamer01/BSRU-SEC5-AUTH.git
+git clone https://github.com/owngamer01/BSRU-SEC4-QUIZ.git
 ```
 
 ## การติดตั้งหลังจาก Clone เสร็จแล้ว
@@ -19,6 +19,8 @@ c:\workspace\quiz_app\flutter pub get
 ## วิธีการ Run
 1. เลือก Emulator ที่เราจะใช้รันจากมุมขวาล่างของ Vscode
 2. คลิกขวาที่ ไฟล์ main.dart เลือก Start debugging หรือ (กด F5)
+
+
 
 ## วิธีเปิด Developer mode
  ถ้าใครจะใช้ มือถือส่วนตัวในการ Run ให้เปิด Developer mode ก่อน ซึ่งมือถือ Android แต่ละรุ่นจะมีที่เปิดไม่เหมือนกัน ถ้าเราไม่เปิด Vscode จะไม่สามารถเลือกตัวมือถือของเราเพื่อ Run ได้
